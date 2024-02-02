@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+C:\Users\Hasee\source\repos\server\server\FileName.cpp(146,72): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Hasee\source\repos\server\server\FileName.cpp(194,66): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Hasee\source\repos\server\server\FileName.cpp(250,92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Hasee\source\repos\server\server\FileName.cpp(260): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\Hasee\source\repos\server\server\FileName.cpp(269,61): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  server.vcxproj -> C:\Users\Hasee\source\repos\server\x64\Debug\server.exe
